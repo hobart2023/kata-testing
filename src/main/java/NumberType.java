@@ -1,0 +1,3 @@
+enum NumberType {
+    ARABIC, RIM
+}
